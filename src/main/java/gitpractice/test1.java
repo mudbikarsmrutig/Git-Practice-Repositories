@@ -1,4 +1,4 @@
-package git_practice_pckg;
+package gitpractice;
 
 public class test1
 {
