@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+
+  <test  name="Test1_Login">
+    <classes>
+      <class name="Module1_Login_Test.SwagLabLoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test  name="Test2_Product">
+    <classes>
+      <class name="Module4_Products_Test.SwagLabProductTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
