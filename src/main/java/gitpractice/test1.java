@@ -8,6 +8,6 @@ public class test1
         System.out.println("test 1 running");
         System.out.println("Test 1 running from ryzon");
         System.out.println("Changes from red branch");
-        System.out.println("Chanes from green branch");
+        System.out.println("Chanes from green branch  ");
     }
 }
