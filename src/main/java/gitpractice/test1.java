@@ -30,5 +30,6 @@ public class test1
         System.out.println("m2 running from green");
         System.out.println("changes from red");
         System.out.println("changes from green");
+        System.out.println("change from green same line");
     }
 }
