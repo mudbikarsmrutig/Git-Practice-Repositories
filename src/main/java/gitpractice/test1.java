@@ -2,6 +2,10 @@ package gitpractice;
 
 public class test1
 {
+    public void m1()
+    {
+        System.out.println("m1 method running from red");
+    }
     public static void main(String[] args)
     {
 
@@ -12,6 +16,9 @@ public class test1
         System.out.println(" new new changes from red");
         System.out.println(" new new changes from green");
         System.out.println("print from green branch");
+
+       test1 t1=new test1();
+       t1.m1();
         
 
     }
