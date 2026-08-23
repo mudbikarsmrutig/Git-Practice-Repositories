@@ -12,7 +12,7 @@ public class test1
         System.out.println(" new new changes from red");
         System.out.println(" new new changes from green");
 
-        System.out.println("");
+        System.out.println("new");
 
     }
 }
