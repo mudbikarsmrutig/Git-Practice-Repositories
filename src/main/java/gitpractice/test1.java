@@ -14,5 +14,12 @@ public class test1
         System.out.println("print from green branch");
         
 
+        test1 t1=new test1();
+        t1.m2();
+
+    }
+    public void m2()
+    {
+        System.out.println("m2 running from green");
     }
 }
