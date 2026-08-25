@@ -21,8 +21,8 @@ public class test1
        t1.m1();
         
 
-        test1 t1=new test1();
-        t1.m2();
+        test1 t11=new test1();
+        t11.m2();
 
     }
     public void m2()
